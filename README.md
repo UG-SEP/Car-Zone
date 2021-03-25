@@ -25,7 +25,7 @@ Follow the Steps:
 1: Fork this Repo
 2: make the changes in your local repo
 3:pull Request 
-Note: Always Fetch the data of original repo before pulling request.
+Note: Always Fetch the data of original or upstream repo before pulling request.
 }
 ```
 # 😀😀😀Enjoy The **_Game_**
