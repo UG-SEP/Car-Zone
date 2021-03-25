@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Version-CodeBlocks_20.03-red.svg)
 # **_Car-Zone_**
 ## This is a ```Game()``` Developed in **_`C++ Language`_** Using `Graphics.h` header file 
-`First Header` | `Second Header`
+`Property` | `Name or Version`
   ------------ | -------------
 ```Developer:``` | **_Ujjwal Gupta_**
 ```Version:``` | **_1.00.01_**
