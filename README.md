@@ -30,4 +30,4 @@ Note: Always Fetch the data of original or upstream repo before pulling request.
 ```
 # 😀😀😀Enjoy The **_Game_**
 ![car](https://user-images.githubusercontent.com/75884061/112270767-1c286f00-8ca0-11eb-87c3-818b75aeb050.gif)
-# Show your ```love``` by staring some of my repos💖💖💖💖
+# Show your ```love``` by staring some of my repos💖💖💖
