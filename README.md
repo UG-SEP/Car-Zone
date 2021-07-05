@@ -5,13 +5,12 @@
 ![](https://img.shields.io/badge/Status-Beta-green.svg)
 ![](https://img.shields.io/badge/Version-CodeBlocks_20.03-red.svg)
 # **_Car-Zone_**
-## This is a ```Game()``` Developed in **_`C++ Language`_** Using `Graphics.h` header file 
-`Property` | `Name or Version`
-  ------------ | -------------
-```Developer:``` | **_Ujjwal Gupta_**
-```Version:``` | **_1.00.01_**
-- [x] This Game is the **Beta Version.**
-- [ ] The is the final look of game.
+#### Car Zone is desktop application where you have to protect your car from the upcoming enemy car and score as much as you can.
+
+## Feature Provided in Car Zone
+- Play
+- Profile
+- Exit
 ## Pics
 ![Screenshot 2021-01-21 220125](https://user-images.githubusercontent.com/75884061/105380714-3ad4a000-5c34-11eb-8e1b-bef619706013.png)
 ![Screenshot 2021-01-21 220449](https://user-images.githubusercontent.com/75884061/105381325-e4b42c80-5c34-11eb-988f-818c757d0e76.png)
